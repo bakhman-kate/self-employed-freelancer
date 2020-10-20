@@ -26,3 +26,6 @@ https://www.egrul.ru/test_inn.html
 1. git clone https://github.com/bakhman-kate/self-employed-freelancer.git
 2. cd self-employed-freelancer
 3. composer install
+
+## ЗАПУСК ТЕСТОВ
+php bin/phpunit
